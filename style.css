@@ -1,0 +1,16 @@
+p{
+    font-size: 240px;
+}
+body{
+    background-color: bisque;
+}
+h1{
+    font-size: 500px;
+}
+.text{
+    color: green;
+}
+#Happy{
+    width: 5000px;
+    height: auto;
+}
